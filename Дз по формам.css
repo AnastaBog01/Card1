@@ -1,0 +1,11 @@
+form{
+  width: 500px;
+  background-image: url("https://jooinn.com/images/sunny-sky-1.jpg");
+  background-size: 100%;
+  font-family: "Century Gothic";
+  font-size: larger;
+}
+fieldset{
+  width: 400px;
+  margin: auto;
+}
